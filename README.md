@@ -1,5 +1,5 @@
 <body>
-  <img class="bg" src="fondo.jpg" />
+  <img class="bg" src="/img/fondo.jpg" />
 </body>
 
 ### 👋 Hola! 👋
