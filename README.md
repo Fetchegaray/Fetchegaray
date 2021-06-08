@@ -25,7 +25,12 @@ Podes ver algo mas de mi experiencia laboral, formacion y como contactarme a con
 - Soy una persona que se desenvuelve bien en ambientes dinamicos y tengo facilidad para trabajar en equipo
 
 <h2> Mis habilidades? <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
-<img width ='32px' src ="iconos/python.svg"/>
+
+- <img width ='32px' src ="iconos/python.svg"/> 
+- <img width ='32px' src ="iconos/Pascal.png"/>
+- <img width ='32px' src ="iconos/c.png"/>
+- <img width ='32px' src ="iconos/Dev-icon.png"/>
+- <img width ='32px' src ="iconos/arduino.png"/>
 
 
 <h2> Como me podes contactar: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
