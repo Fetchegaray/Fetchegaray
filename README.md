@@ -34,6 +34,6 @@ Podes ver algo mas de mi experiencia laboral, formacion y como contactarme a con
 
 
 <h2> Como me podes contactar: <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-<a href = 'https://www.linkedin.com/in/fernando-etchegaray-67b72842'> <img width = '32px' align= 'center' src="/iconos/linkedin.png"/></a> 
+<a href = 'www.linkedin.com/in/fernando-etchegaray'> <img width = '32px' align= 'center' src="/iconos/linkedin.png"/></a> 
 <a href = 'https://www.github.com/Fetchegaray'> <img width = '32px' align= 'center' src="/iconos/gh.png"/></a> 
 <a href = 'mailto:fjetchegaray@gmail.com'> <img width = '32px' align= 'center' src="/iconos/gmail.png"/></a> 
