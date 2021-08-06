@@ -7,7 +7,7 @@
 <p align='center'>
 
 </p>
-<div size='20px'> Soy Fernando Etchegaray. Actualmente estoy finalizando la diplomatura de <img src = "https://img.shields.io/badge/-Python-lightgrey"> en la Universidad Tecnologica Nacional
+<div size='20px'> Soy Fernando Etchegaray. Tengo una diplomatura de <img src = "https://img.shields.io/badge/-Python-lightgrey"> de la Universidad Tecnologica Nacional y actualmente estoy iniciando otra diplo en bases de datos.
 </p>
 Podes ver algo mas de mi experiencia laboral, formacion y como contactarme a continuacion! :smile: 
 </div>
@@ -16,7 +16,9 @@ Podes ver algo mas de mi experiencia laboral, formacion y como contactarme a con
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- Actualmente estoy terminando la diplomatura en Python 3
+- Diplomatura en Bases de Datos - UTN
+
+- Diplomatura en Python 3 - UTN
 
 - Tengo experiencia programando en otras tecnologias (algunas no tan actuales o potentes...) como: Turbo Pascal, Borland C, DEV C++, Arduino y plataformas RISC
 
